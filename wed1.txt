@@ -1,0 +1,7 @@
+PARTH@delll MINGW64 ~/OneDrive/Desktop/gitDemo (main)
+$ git add .
+
+PARTH@delll MINGW64 ~/OneDrive/Desktop/gitDemo (main)
+$ git commit -m "message"
+On branch main
+Changes not staged for commit
